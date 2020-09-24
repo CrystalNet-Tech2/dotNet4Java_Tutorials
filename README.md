@@ -15,6 +15,7 @@ The dotNet4Java is a .Net Runtime Library for Java which helps Java developers w
 * Can handle .Net exceptions.
 * Can handle, access and invoke .Net events.
 * There are tools to import and generate .Net Libraries into Java class files.
+* ...and many more.
 
 # License
 The Apache License 2.0 applies to all saples in this repository.
