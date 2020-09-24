@@ -1,5 +1,5 @@
 # dotNet4Java Tutorials
-The samples in this directory use dotNet4Java to use .NET DLLs in JAVA illustrating how you can levarage the possibilities of dotNet4Java in your JAVA projects.
+The samples in this directory use dotNet4Java to use .NET DLLs and .Net Framework Class Libraries in JAVA illustrating how you can levarage the possibilities of dotNet4Java in your JAVA projects.
 
 # License
 The Apache License 2.0 applies to all saples in this repository.
