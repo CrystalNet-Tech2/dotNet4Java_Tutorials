@@ -1,6 +1,7 @@
 bin
 .metadata
-javonet_*.jar
+dotNet4Java_*.jar
+dotNet4Java_dotNetFramework*.jar
 /.recommenders/
 
 Servers/
