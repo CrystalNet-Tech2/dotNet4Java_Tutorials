@@ -1,6 +1,21 @@
 # dotNet4Java Tutorials
 The samples in this directory use dotNet4Java to use .NET DLLs and .Net Framework Class Libraries in JAVA illustrating how you can levarage the possibilities of dotNet4Java in your JAVA projects.
 
+# dotNet4Java
+The dotNet4Java is a .Net Runtime Library for Java which helps Java developers work with .Net framework and 3rd party libraries in Java with ease. It is designed to provide a way to interact with applications written in anyone of the .Net languages (such as C#, Visual Basic.Net, Delphi.Net, JScript.Net, etc) from Java.
+
+# What dotNet4Java can do:
+* Access .Net Framework Class Library (such as Collections, IO, Networking, Security, Cryptogrphy etc).
+* Access 3rd Party .Net Libraries.
+* Hosts the .Net Common Language Runtime (CLR) in Java.
+* Can load and access assemblies/types from 3rd party .Net libraries or executable files.
+* Can load and access .Net assemblies/types from Global Assembly Cache (GAC)
+* Can invoke members of a .Net types (such as constructor, fields, properties, methods and events).
+* Can create instance of .Net object.
+* Can handle .Net exceptions.
+* Can handle, access and invoke .Net events.
+* There are tools to import and generate .Net Libraries into Java class files.
+
 # License
 The Apache License 2.0 applies to all saples in this repository.
 
